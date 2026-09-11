@@ -77,3 +77,10 @@ paths in `tools/`).
 Apache-2.0, same as opencore-amr, of which this is a derivative work
 (original code (C) 1998-2010 PacketVideo, portions derived from 3GPP
 TS 26.073 reference C code, (C) 2004 3GPP Organizational Partners).
+
+## 💖 Support & Donations
+
+
+| Coin | Network | Address |
+| :--- | :--- | :--- |
+| **SOL** | Solana | `GnXfjr5Kq4tpijwfeMbtnqicLFptXXP5rV79axB1M6F5` |
